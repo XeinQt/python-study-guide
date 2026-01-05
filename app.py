@@ -26,3 +26,39 @@ fruits = ["orange","apple", "grapes"]
 # z = "gotsdfs"
 
 # print(x,y,z)
+
+
+#functiions
+
+# x = "awsome";
+
+# def myFunction():
+#     x = "IS GOOD"
+#     print("python is good " + x)
+
+
+# myFunction()
+
+
+# def addFunction(x, y):
+#     print(x + y);
+
+# addFunction(5, 5)
+
+
+def globalTotal():
+    global x
+    x = 0
+
+def addNumber(num1, num2):
+    global x
+    x = x + (num1 + num2)
+
+def minusNumbers(num1, num2):
+    global x
+    x = x + (num1 - num2)
+
+globalTotal()
+addNumber(5, 5)
+minusNumbers(5, 2)
+print(x)
