@@ -46,19 +46,65 @@ fruits = ["orange","apple", "grapes"]
 # addFunction(5, 5)
 
 
-def globalTotal():
-    global x
-    x = 0
+# def globalTotal():
+#     global x
+#     x = 0
 
-def addNumber(num1, num2):
-    global x
-    x = x + (num1 + num2)
+# def addNumber(num1, num2):
+#     global x
+#     x = x + (num1 + num2)
 
-def minusNumbers(num1, num2):
-    global x
-    x = x + (num1 - num2)
+# def minusNumbers(num1, num2):
+#     global x
+#     x = x + (num1 - num2)
 
-globalTotal()
-addNumber(5, 5)
-minusNumbers(5, 2)
-print(x)
+# globalTotal()
+# addNumber(5, 5)
+# minusNumbers(5, 2)
+# print(x)
+
+# x = 5;
+# x = "Hello World"
+# x = 20.5
+# x = 1j
+# x = ["apple", "banana", "cherry"]
+# x = ("apple", "banana", "cherry")
+# x = range(6)
+# x = {"name" : "John", "age" : 36}
+# x = {"apple", "banana", "cherry"}
+# x = frozenset({"apple", "banana", "cherry"})
+# x = True
+# x = b"Hello"
+# x = bytearray(5)
+# x = memoryview(bytes(5))
+# x = None
+
+# print(type(x))
+
+
+
+#python numbers
+
+# x = 4
+# y = 2.54
+# z = 1j
+
+# print(type(x))
+
+# total = x + z
+
+# print(total)
+
+#coverting numbers
+
+# a = float(x)
+# b = int(y)
+# c = complex(x)
+
+
+# print((c))
+
+#use the random numbers
+# import random
+
+# print(random.randrange(1,10));
