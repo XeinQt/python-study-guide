@@ -108,3 +108,68 @@ fruits = ["orange","apple", "grapes"]
 # import random
 
 # print(random.randrange(1,10));
+
+#casting
+# x = int(1);
+# y = int("2")
+
+# a = str(x)
+
+# print(type(y))
+# print(type(a))
+
+#casting is coverting into other data types 
+
+#string
+# a = """"lorem impsum dolor hotdog cheesedog manok na adobo""";
+
+# print(a)
+
+# name = str("Rico")
+
+# #advance looping
+# for x in name:
+#     print(x)
+
+
+# #length
+# a = "Hello, World"
+# print(len(a))
+
+# #in length, the space still counted!
+
+# #printing base on the text
+
+# print("hello" in a)
+
+# #advance in if else
+# if "Hello" in a:
+#     print("naay Hello")
+# else:
+#     print("walay hello")
+
+# if "Hello" not in a:
+#     print("walay helo")
+# else:
+#     print("naay hello")
+
+
+#slicing the text
+# b = "Hello, world!"
+# print(b[2:5])
+# print(b[:5])
+# print(b[6:])
+
+#modify string
+# a = "Hello"
+
+# print(a.upper());
+# print(a.lower());
+# #strip is cutting the space in the 1st and the last
+# print(a.strip());
+
+
+# print(a.replace("Hello", "World"));
+
+# b = "Hello,hotdog"
+# print(b.split(","));
