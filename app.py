@@ -173,3 +173,25 @@ fruits = ["orange","apple", "grapes"]
 
 # b = "Hello,hotdog"
 # print(b.split(","));
+
+#concat
+# x = "World"
+# y = "hello"
+
+# total = x + "" + y
+# print(total)
+
+
+#format string
+# b = 43
+# h = "hotdog"
+# se = f"the price is {b} of the bag same as the {h}"
+
+
+# price = float(45.31231)
+# s = f"The price of the bag is {price:.2f}"
+# print(s)
+
+#escape characters
+j = "The dog's name is \"Vbooo\" "
+print(j)
