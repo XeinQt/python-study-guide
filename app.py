@@ -165,7 +165,9 @@ fruits = ["orange","apple", "grapes"]
 
 # print(a.upper());
 # print(a.lower());
-# #strip is cutting the space in the 1st and the last
+# #strip is cutt
+# \
+# ing the space in the 1st and the last
 # print(a.strip());
 
 
@@ -193,5 +195,48 @@ fruits = ["orange","apple", "grapes"]
 # print(s)
 
 #escape characters
-j = "The dog's name is \"Vbooo\" "
-print(j)
+# j = "The dog's name is \"Vbooo\" "
+# print(j)
+
+
+#boolean
+
+# if(""):
+#     print("true")
+# else: 
+#     print("false")
+
+# def myFunction():
+#     return True;
+
+# if myFunction():
+#     print("yes")
+# else:
+#     print("no")
+
+
+#operators
+
+# sum = 1 + 1;
+# sum = 1 * 1;
+# sum = 1 / 1;
+# sum = 1 - 1;
+# print(sum)
+
+# sum = 0
+
+# sum += 10
+# sum -= 10
+# sum *= 10
+# sum /= 10
+# print(sum)
+
+
+#comparison
+
+# ==
+# !=
+# >
+# <
+# <=
+# >=
