@@ -260,3 +260,17 @@ fruits = ["orange","apple", "grapes"]
 # ban = ["banana"]
 
 # print(app is not ban)
+
+#membership operators
+
+# fruits = ["Banana", "apple"]
+
+# search = "Banan1a"
+
+# if search in fruits:
+#     print(search)
+# else:
+#     print("Not found!")
+
+
+#to sum up all the operators, it uses all the same in programming language but not same syntax then the python is easier
