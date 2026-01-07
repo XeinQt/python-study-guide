@@ -253,3 +253,10 @@ fruits = ["orange","apple", "grapes"]
 #     print("True")
 # else :
 #     print("false")
+
+
+# identify operators
+# app = ["apple"]
+# ban = ["banana"]
+
+# print(app is not ban)
