@@ -240,3 +240,16 @@ fruits = ["orange","apple", "grapes"]
 # <
 # <=
 # >=
+
+
+#logical
+
+# and, or and not
+
+# x = 5;
+# y = 2
+
+# if not(x == 5 and y == 2):
+#     print("True")
+# else :
+#     print("false")
