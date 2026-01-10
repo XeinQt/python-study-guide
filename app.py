@@ -315,20 +315,20 @@ mylist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
 # print(mylist)
 
 
-asfasdf
-asdfads
-asdfasd
-f
-asdf
-asdf
-asdf
-asdf
-asdf
-asd
-fas
-dfsd
-af
-sad
-f
-asdfasdf
+# asfasdf
+# asdfads
+# asdfasd
+# f
+# asdf
+# asdf
+# asdf
+# asdf
+# asdf
+# asd
+# fas
+# dfsd
+# af
+# sad
+# f
+# asdfasdf
 
