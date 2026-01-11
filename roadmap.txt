@@ -1,0 +1,27 @@
+| Day       | Topic                  | Goal                                  | Key Topics                                                                           | Practice Exercises                                                                     |
+| --------- | ---------------------- | ------------------------------------- | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
+| **Day 1** | Python Basics          | Understand Python and how to run it   | What Python is, where it’s used, installation, IDE/terminal, running files, comments | Install Python, create a file, display a message, add comments, run via IDE & terminal |
+| **Day 2** | Variables & Data Types | Learn how Python stores data          | Variables, naming rules, integers, floats, strings, booleans, type conversion        | Create personal variables, modify values, identify data types, convert input           |
+| **Day 3** | Operators & User Input | Perform calculations and accept input | Arithmetic, comparison, logical operators, input handling                            | Build a calculator, compare numbers, check even/odd, perform multiple operations       |
+| **Day 4** | Conditional Statements | Make decisions in programs            | If, else, else-if, nested conditions, logical checks                                 | Grading system, voting eligibility, largest number finder, conditional messages        |
+| **Day 5** | Loops                  | Automate repetitive tasks             | For loops, while loops, loop control, ranges                                         | Print 1–100, sum values, multiplication table, repeat until condition                  |
+| **Day 6** | Lists & Tuples         | Store collections of data             | Lists, indexing, slicing, adding/removing elements, tuples                           | Store scores, find min/max, compute average, convert list to tuple                     |
+| **Day 7** | Dictionaries & Sets    | Work with structured data             | Dictionaries, key-value pairs, updates, sets, uniqueness                             | Student records, update values, word frequency count, remove duplicates                |
+
+
+| Day        | Topic              | Goal                            | Key Topics                                                    | Practice Exercises                                                           |
+| ---------- | ------------------ | ------------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| **Day 8**  | File Handling      | Read and write data files       | Text files, writing files, CSV structure, file paths          | Read text data, write input to file, count lines, analyze CSV                |
+| **Day 9**  | Functions          | Write reusable logic            | Function definition, parameters, return values, scope         | Average calculator, validation logic, dataset processing, repeated calls     |
+| **Day 10** | Error Handling     | Prevent crashes                 | Runtime errors, try-except, input validation, custom messages | Handle bad input, avoid division errors, log errors, safe processing         |
+| **Day 11** | NumPy              | Efficient numerical computation | Arrays, vector operations, statistics, dimensions             | Create datasets, calculate statistics, element-wise ops, compare performance |
+| **Day 12** | Pandas             | Work with real datasets         | DataFrames, Series, CSV import, filtering, statistics         | Load data, summarize, filter rows, sort columns                              |
+| **Day 13** | Data Cleaning      | Prepare data for training       | Missing values, duplicates, normalization, transformation     | Detect missing data, clean duplicates, fix invalid values, normalize data    |
+| **Day 14** | Data Visualization | Understand data visually        | Line charts, bar charts, histograms, scatter plots            | Visualize trends, compare categories, find outliers, create clear charts     |
+
+| Day           | Topic            | Goal                          | Key Topics                                           | Practice Exercises                                                       |
+| ------------- | ---------------- | ----------------------------- | ---------------------------------------------------- | ------------------------------------------------------------------------ |
+| **Day 15**    | Data Preparation | Prepare datasets for training | Feature selection, data splitting, train/test sets   | Select features, split data, analyze sets, avoid data leakage            |
+| **Day 16**    | Model Building   | Train a basic model           | Regression basics, training workflow, inputs/outputs | Train model, adjust parameters, compare predictions, interpret results   |
+| **Day 17**    | Model Evaluation | Measure performance           | Accuracy, error metrics, overfitting vs underfitting | Evaluate accuracy, compare models, improve performance, document results |
+| **Day 18–20** | Mini Project     | Apply everything learned      | Data collection, cleaning, training, evaluation      | Build a predictor, analyze data, train model, present findings           |
